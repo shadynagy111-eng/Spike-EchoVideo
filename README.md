@@ -48,4 +48,4 @@ pip install torch spikingjelly opencv-python
 
 ---
 
-[This video on ASD and Echo views](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DD-jpsdtios) provides a clinical walkthrough of the Apical Four-Chamber view, which will help the student identify the exact regions (RV and Septum) where the Spiking Attention should be most active.
+[This video on ASD and Echo views](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DD-jpsdtios) provides a clinical walkthrough of the Apical Four-Chamber view, which will help to identify the exact regions (RV and Septum) where the Spiking Attention should be most active.
